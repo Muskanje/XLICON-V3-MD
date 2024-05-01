@@ -26,7 +26,7 @@
 //re-upload? recode? copy code? give credit ya :)
 //Instagram: unicorn_xeon13
 //Telegram: https://t.me/+zUO_WmNA1bQ3Yjlk
-//GitHub: @
+//GitHub: @ https://github.com/Muskanje/XLICON-V3-MD/tree/main
 //WhatsApp: +923037484167
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
