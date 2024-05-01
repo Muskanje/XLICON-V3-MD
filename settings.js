@@ -19,14 +19,14 @@
  //  * @project_name : Faisal-udas-MD
  //  * @author : salmanytofficial
  //  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+//   * @description : Faisal-udas ,A Multi-functional whatsapp user bot.
 //*
 //* 
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
 //Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
+//Telegram: https://t.me/+zUO_WmNA1bQ3Yjlk
+//GitHub: @
 //WhatsApp: +923037484167
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
